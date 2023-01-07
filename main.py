@@ -9,4 +9,4 @@ for i in div:
 
 print(div)
 print(power5)
-print(siema)
+print(siemanerko)
